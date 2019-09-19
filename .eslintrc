@@ -10,6 +10,7 @@
     "node": true
   },
   "rules": {
+    "linebreak-style": [0, "error", "windows"],
     "arrow-parens": ["off"],
     "compat/compat": "error",
     "consistent-return": "off",
