@@ -1,0 +1,23 @@
+.container {
+  width: 80%;
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.listItem {
+  background: #fff;
+}
+
+.search {
+  margin-bottom: 20px;
+}
+
+.dataList {
+  background: #fff;
+}
+
+.linkCr {
+  color: #1890ff;
+}
